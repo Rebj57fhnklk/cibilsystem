@@ -1,0 +1,84 @@
+1) First Extract downloaded project
+
+2) Copy files in htdocs
+
+3)Import database
+
+4) Open project in localhost
+
+5) Explain brief about project and also explain about home page:
+•	Customer can apply for loan account through online. Customer needs to fill their requirements in loan application.
+•	Customer can view their Loan account detail, Interest rate, repayment schedule details etc.
+•	Customer can make loan payment through online. After the payment the system generates receipt with total paid amount and balance amount.
+•	The system calculates processing charge and late payment fee automatically.
+•	Administrator can view paid customer details, unpaid customer details, terminated accounts, etc.
+
+
+6) Then Login to Administrator
+(Default login id is admin and password is admin) 
+Just Explain about Admin menus then logout
+
+------------------------------------------
+
+7) Go to Customer Registration (Register as customer) (WHile registering just explain about company registration also)
+
+8) AFter the registration it automatically logs in, Then explain about customer menus.
+
+9) update profile
+
+10) Apply for Loan (In this page enter Desired Loan Amount, Your net monthly income ? , Your company name)
+After applying loan it shows View Loan Applications.
+
+11) Then logout
+
+----------------------------------------
+
+12) Then login to Admin. 
+
+13) Open pending loan application and approve that loan which you applied after clicking view application.
+
+14) Then open View approved loan applications menu and show approved loan
+
+15) Then Logout
+
+------------------------------------------
+
+16) Again login to customer and open loan offer menu. It will show one approval. Then click on view loan offer.
+
+17) Show all tabs in Process Loan Application. Then click on accept loan offer.
+
+18) Then open my loan accounts to display all loan accounts
+
+19) Then click on view loan chart.
+
+20) explain about loan chart.
+
+21) For first installment make payment. After that it will generate payment receipt.
+
+22) Again open my loan accounts to display all loan accounts. Then click on view loan chart.
+
+23) THen click on Apply for Foreclosure. (If customer wants pay early then interest amount will reduce)
+
+24) Make payment for foreclosure. AFter that it generates receipt.
+
+25)Then open closed loan accounts.
+
+26) Thats it from customer . THen logout.
+
+
+----------------------------------------------------------
+
+27) Then login to admin
+
+
+28) Open Loan Applications->View pending applications. reject any loan application and then show rejected loan application from Loan Applications->View Rejected applications.
+
+29) In loan accounts menu show closed account which you closed earlier.
+
+30) In the transaction report explain about transaction report.
+
+31) Also explain about profit loss report.
+
+32) In customers click on view customer. Then update any credit score to show credit score updates.
+
+----------------------------------------------------------
